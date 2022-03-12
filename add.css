@@ -1,0 +1,44 @@
+.conteiner{
+    background-color: rgb(131, 131, 235);
+    width: 500px;
+    height: 300px;
+    margin: auto;
+}
+h1{  
+    font-size: 25px;
+    padding-top: 30px;
+    padding-left: 40px;   
+}
+.form{
+    padding-left: 50px;
+    /*background-color: yellow;*/
+}
+.dugme{
+    width: 70px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+#b1{
+    background-color: yellow;
+}
+#b2{
+    background-color: yellow;
+}
+#b3{
+    background-color: yellow;
+    width: 147px;
+    height: 20px;
+}
+#b4{
+    background-color: yellow;
+}
+#b5{
+    background-color: yellow;
+}
+#b6{
+    background-color: yellow;
+    width: 147px;
+    height: 20px;
+    /*margin-top:20px;*/
+}
